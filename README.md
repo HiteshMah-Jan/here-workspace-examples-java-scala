@@ -6,7 +6,7 @@ This repository holds a series of Java and Scala examples, that demonstrate  typ
 Go to [HERE platform](https://developer.here.com/products/open-location-platform) to learn more. If you are interested in knowing what the platform offers specifically for Java and Scala developers, visit [this page](https://developer.here.com/documentation/sdk-developer-guide/dev_guide/index.html).
 
 ## Prerequisites
-
+vf
 In order to run the examples, you need to have a HERE Workspace account. If you do not have an account, navigate to [Pricing and Plans](https://developer.here.com/pricing/open-location-platform) to apply for a free trial.
 
 You need to get access credentials and prepare your environment. For more information on how to prepare your environment, see our [guide for Java and Scala developers](https://developer.here.com/documentation/sdk-developer-guide/dev_guide/topics/how-to-use-sdk.html).
