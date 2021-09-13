@@ -4,7 +4,7 @@
 
 This repository holds a series of Java and Scala examples, that demonstrate  typical use cases for the HERE Workspace – a part of HERE platform. HERE Workspace is an environment to enrich, transform and deploy location-centric data.
 Go to [HERE platform](https://developer.here.com/products/open-location-platform) to learn more. If you are interested in knowing what the platform offers specifically for Java and Scala developers, visit [this page](https://developer.here.com/documentation/sdk-developer-guide/dev_guide/index.html).
-
+ce
 ## Prerequisites
 
 In order to run the examples, you need to have a HERE Workspace account. If you do not have an account, navigate to [Pricing and Plans](https://developer.here.com/pricing/open-location-platform) to apply for a free trial.
